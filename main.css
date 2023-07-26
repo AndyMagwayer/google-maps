@@ -1,0 +1,35 @@
+
+body{
+    background-color:#474747;
+}
+
+
+h1{
+  font-size: 45px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  color:black;
+  margin-bottom: 40px;
+  color: #000;
+  text-shadow: 0 2px 3px #555555;
+  font-family: Tahoma;
+}
+
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+  margin-top:50px;
+}
+
+#map_container{
+  position: relative;
+}
+#map{
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 22.25%;
+    padding-top: 30px;
+    position: relative;
+}
